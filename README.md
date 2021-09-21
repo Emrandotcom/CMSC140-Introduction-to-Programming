@@ -1,8 +1,10 @@
 # Introduction-to-Programming
 
-Montgomery College CMSC140 Spring 2021
+Montgomery College CMSC140 33087 Spring 2021
 
-I'm able to:
+Language: C++
+
+After completing this course, I've learned how to:
 
  1.     Demonstrate the ability to design, write, test, and debug computer programs using procedural techniques
 
@@ -15,3 +17,5 @@ I'm able to:
  5.     Declare and process one-dimensional arrays, including implementation of algorithms for searching and sorting arrays
 
  6.     Use simple file input and output operations
+
+Take a look at my past projects!
