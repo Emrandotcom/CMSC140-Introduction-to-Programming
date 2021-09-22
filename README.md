@@ -4,6 +4,9 @@ Montgomery College CMSC140 33087 Spring 2021
 
 Language: C++
 
+IDE: Visual Studio
+
+
 After completing this course, I've learned how to:
 
  1.     Demonstrate the ability to design, write, test, and debug computer programs using procedural techniques
