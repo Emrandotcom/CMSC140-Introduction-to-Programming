@@ -6,8 +6,7 @@ Language: C++
 
 IDE: Visual Studio
 
-
-After completing this course, I've learned how to:
+Objectives:
 
  1.     Demonstrate the ability to design, write, test, and debug computer programs using procedural techniques
 
