@@ -1,0 +1,7 @@
+Ask user to select an option from a menu consisting of: temperature converter, distance converter, weight converter and quit. 
+Program does calculations accordingly, unless user inputs a value outside of the given range.
+Specified Ranges-
+  1. Menu selection: 1-4
+  2. Distance converter: Greater than 0
+  3. Weight converter: Greater than 0
+Output calculations
